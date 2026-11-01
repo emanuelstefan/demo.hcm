@@ -1,0 +1,587 @@
+# Hotel Codru Moma***
+
+> Hotel Codru Moma***, Moneasa, jud. Arad: 204 locuri, bază de tratament balnear, piscină interioară și restaurant. Tratament decontat CAS și bilete Casa de Pensii.
+
+This file is available in Romanian (first) and English (below). The website has both versions: Romanian at / and English at /en/.
+
+## Date despre hotel
+
+- Clasificare: 3 stele
+- Adresă: Strada Principală 118, Moneasa, Jud. Arad, România
+- Capacitate: 204 locuri de cazare, 100 camere duble, 2 apartamente
+- Restaurant: 130 de locuri
+- Plată: Numerar, card, tichete și carduri de vacanță
+- Operator: T.B.R.C.M. S.A. – Sucursala Moneasa
+
+## Camere
+
+- [Cameră dublă](https://hotelcodrumoma.ro/camere/camera-dubla/): Cu o suprafață de 15,5 mp, camerele duble sunt potrivite pentru una sau două persoane. Acestea sunt dotate cu SMART TV, telefon, răcitor și balcon, oferind un spațiu confortabil pentru odihnă și relaxare.
+- [Cameră twin](https://hotelcodrumoma.ro/camere/camera-twin/): Având aceeași suprafață de 15,5 mp, camerele twin sunt ideale pentru două persoane care preferă paturi separate. Dotările includ SMART TV, telefon, răcitor și balcon, asigurând un sejur plăcut și liniștit.
+- [Apartament](https://hotelcodrumoma.ro/camere/apartament/): Cu o suprafață de 31 mp, apartamentele sunt compartimentate în living și dormitor, fiind potrivite pentru 1–4 persoane. Dispun de SMART TV, telefon, răcitor și o terasă generoasă de 25 mp, oferind un plus de spațiu și confort.
+
+## Servicii
+
+- **Cazare în camere și apartamente**: Hotel Codru Moma*** dispune de 204 locuri de cazare, clasificate la 3 stele, distribuite în 100 de camere duble și 2 apartamente spațioase. Spațiile de cazare sunt concepute pentru a asigura confort, funcționalitate și liniște, fiind potrivite atât pentru sejururi scurte, cât și pentru șederi de durată.
+- **Gastronomie și mese echilibrate**: Mese complete adaptate stilului dumneavoastră de sejur, cu preparate locale și meniu din bucătăria românească. Include opțiuni cu mic dejun, prânz și cină. Restaurantul hotelului, cu o capacitate de 130 de locuri, oferă un ambient plăcut și preparate variate, adaptate nevoilor oaspeților care urmează programe de tratament sau care își doresc o alimentație echilibrată.
+- **Piscină interioară cu apă mezotermală**: Acces la bazin interior cu apă încălzită (31–33°) pentru relaxare și hidrokinetoterapie (HKT) într-un ambient plăcut. Bazin modern cu o suprafață de 50 mp și un regim de adâncime de 1,5–1,7 m. Zona piscinei este prevăzută cu vestiare separate pentru femei și bărbați și cu dușuri.
+- **Tratamente, proceduri terapeutice și recuperare**: Baza noastră de tratament include terapii moderne precum TECAR, magnetoterapie, laser de înaltă intensitate, electroterapie și kinetoterapie, completate de proceduri clasice balneare și masaje terapeutice. Toate terapiile sunt realizate sub supraveghere de specialitate, în funcție de nevoile fiecărui pacient.
+- **Consultații medicale pentru tratament**: Fiecare schemă de tratament este stabilită în baza unei consultații inițiale făcute de medicul nostru balneolog.
+- **Activități recreative**: Plimbări și drumeții ușoare în împrejurimile verzi ale Moneasei, aer curat, peisaj montan liniștit, mici momente artistice și folclorice, plus jocuri în aer liber pentru socializare și bună dispoziție.
+
+## Proceduri terapeutice
+
+- **Terapia TECAR**: Terapie modernă care utilizează curenți de radiofrecvență pentru a stimula regenerarea țesuturilor, reducerea durerii și accelerarea procesului de recuperare.
+- **Magnetodiaflux (MDF)**: Procedură bazată pe câmpuri magnetice pulsatile, recomandată pentru reducerea inflamațiilor, ameliorarea durerilor și stimularea circulației.
+- **Laser de înaltă intensitate – HILT Therapy**: Terapie avansată ce acționează în profunzime, având efect antiinflamator, analgezic și biostimulator, ideală în afecțiuni musculare și articulare.
+- **Electroterapie**: Include curenți diadinamici, Trabert, TENS și interferențiali, fiind utilizată pentru calmarea durerilor, relaxarea musculaturii și stimularea nervilor periferici.
+- **Electrostimulare (Electrospastic)**: Procedură utilizată pentru tonifierea musculaturii și recuperarea funcțională, în special în afecțiuni neurologice sau post-traumatice.
+- **Unde scurte și ultrasunete**: Terapie cu efect termic profund, care ajută la reducerea contracturilor musculare și îmbunătățirea mobilității articulare.
+- **Parafină**: Aplicată local, parafina are efect relaxant, antiinflamator și este recomandată în special pentru afecțiuni reumatismale ale mâinilor și picioarelor.
+- **Băi galvanice cu patru celulare**: Procedură utilizată în afecțiuni circulatorii și neurologice, având efect de stimulare și relaxare.
+- **Hidromasaj și băi individuale cu apă mezotermală**: Contribuie la relaxarea musculaturii, reducerea stresului și îmbunătățirea circulației.
+- **Masaj terapeutic**: Recomandat pentru reducerea durerilor musculare, relaxarea țesuturilor și îmbunătățirea mobilității.
+- **Masaj de relaxare / anticelulitic**: Ajută la detensionare, relaxare generală și îmbunătățirea aspectului pielii.
+- **Kinetoterapie**: Programe de exerciții personalizate pentru recuperare, menținerea mobilității și corectarea posturii.
+- **Hidrokinetoterapie**: Exerciții realizate în apă, ideale pentru recuperare ușoară și eficientă, cu impact redus asupra articulațiilor.
+- **Fototerapie – terapie cu infraroșu (IR)**: Terapie cu efect de încălzire profundă, recomandată pentru relaxare și ameliorarea durerilor.
+- **Drenaj limfatic – presoterapie**: Procedură eficientă pentru stimularea circulației limfatice, reducerea edemelor și detoxifierea organismului.
+
+## Afecțiuni pentru care e recomandată baza de tratament
+
+- afecțiuni reumatismale inflamatorii (poliartrită reumatoidă, spondilită anchilozantă, artrite reactive, boli de colagen)
+- afecțiuni reumatismale degenerative (gonartroză, coxartroză, spondilodiscartroză)
+- afecțiuni neurologice periferice și centrale (AVC ischemic sau hemoragic, boala Parkinson)
+- afecțiuni post-traumatice
+- afecțiuni cauzate de muncă în condiții de stres
+- nevroze astenice și stări de oboseală accentuată
+
+## Oferte curente
+
+- **Sejur cu tratament inclus** (1 noiembrie – 20 decembrie 2026): 215–225 lei/pers/zi. Aveți grijă de corpul dumneavoastră înainte de venirea iernii. În baza noastră de tratament modernizată, dotată cu aparatură medicală nouă BTL și o echipă de profesioniști, vă oferim pachete complete de recuperare.
+- **Sejur fără tratament** (Relaxare și escapadă de toamnă): de la 344 lei/zi/cameră. Dacă doriți doar să fugiți de agitația orașului, să respirați aer curat și să vă bucurați de confort, vă așteptăm la o vacanță pentru relaxare.
+
+## Întrebări frecvente
+
+- **Unde se află Hotel Codru Moma?** Hotel Codru Moma*** se află pe Strada Principală 118, în stațiunea Moneasa, județul Arad, România.
+- **Ce tipuri de camere are hotelul?** Hotelul are 204 locuri de cazare în 100 de camere duble (dublă sau twin, 15,5 mp, cu balcon) și 2 apartamente de 31 mp, cu living, dormitor și terasă de 25 mp.
+- **Pot face tratament decontat de Casa de Sănătate?** Da. În baza biletului de trimitere în original și a cardului de sănătate asigurăm consultație medicală și 4 proceduri pe zi timp de 10 zile, de luni până vineri, în intervalul 8–16, în limita fondurilor disponibile. Întregul tratament trebuie să fie în aceeași lună.
+- **Ce include biletul de la Casa de Pensii?** Biletul include 16 nopți de cazare, 12 zile de tratament cu consultație medicală și 3 proceduri pe zi, plus 16 zile cu pensiune completă și meniuri prestabilite. Cazarea se face într-un loc în cameră dublă.
+- **Pentru ce afecțiuni este recomandată baza de tratament?** Pentru afecțiuni reumatismale inflamatorii și degenerative, afecțiuni neurologice periferice și centrale, afecțiuni post-traumatice, afecțiuni cauzate de munca în condiții de stres, nevroze astenice și stări de oboseală accentuată.
+- **Hotelul are piscină?** Da, o piscină interioară încălzită de 50 mp, cu adâncime de 1,5–1,7 m și vestiare separate. Accesul este contra cost; tarifele și programul le puteți afla de la recepție.
+- **Cum pot plăti?** Acceptăm numerar, card, precum și tichete și carduri de vacanță.
+- **Parcarea și internetul sunt gratuite?** Da, parcarea este gratuită, iar internetul este gratuit în toate spațiile hotelului.
+- **Formularul de pe site confirmă rezervarea?** Nu. Formularul este o cerere de pre-rezervare. Rezervarea devine fermă doar după confirmarea transmisă de hotel. Dacă nu primiți răspuns în maximum 48 de ore, vă rugăm să ne sunați.
+
+## Ghiduri
+
+### Sejur cu bilet emis de Casele Județene de Pensii
+
+Pentru obținerea unui bilet de tratament de la Casele Județene de Pensii (sejur de 16 zile) aveți de parcurs și avut în vedere următoarele:
+
+1. Depuneți cererea la Casa Județeană de Pensii de care aparțineți. Cererea se poate depune în format fizic sau se poate completa și trimite pe e-mail (informații privind depunerea online găsiți pe site-ul Casei Județene de Pensii). Pe lângă cerere se depune copie după cartea de identitate și copie după cuponul de pensie.
+2. Pe cerere completați stațiunea Moneasa – Hotel Codru Moma și seria în care doriți să veniți. Graficul seriilor este afișat pe site-ul nostru, pe pagina de Facebook și la Casele de Pensii. Seriile au zile fixe de intrare și de ieșire.
+3. Pentru primirea biletului de tratament aveți nevoie să prezentați copie după biletul de trimitere de la medicul de familie (este foarte important să fie în termen, 60 de zile de la data emiterii) și 50% din pensie, dacă este cu contribuție. Pentru orice eventualitate, aveți la dumneavoastră copie după CI și ultimul cupon de pensie.
+4. Biletul de tratament se prezintă în ORIGINAL la recepția hotelului, cu respectarea datei înscrise pe bilet, împreună cu biletul de trimitere de la medicul de familie în ORIGINAL, cartea de identitate și cuponul de pensie.
+5. Biletul de tratament include 16 nopți de cazare, 12 zile de tratament cu consultație medicală asigurată de medicul nostru balneolog și 3 proceduri/zi (tratamentul se face de luni până vineri, în intervalul orar 8–16) și 16 zile cu pensiune completă (mic dejun, prânz, cină), cu meniuri prestabilite.
+6. Durata sejurului de 16 zile începe cu data înscrisă pe bilet. Neprezentarea la data înscrisă sau plecarea înainte de termen duce la pierderea zilelor respective.
+7. Cazarea se face în cameră dublă; titularului biletului i se asigură un loc în cameră dublă. Dacă veniți singur/singură, veți avea coleg/colegă de cameră.
+8. Beneficiați de un singur bilet de tratament pe an.
+9. Acordarea biletelor se face în baza unui punctaj stabilit de Casele Județene de Pensii.
+10. Persoanele care au lucrat în sistemul MAI nu beneficiază de bilet de tratament emis de Casele Județene de Pensii.
+
+Notă:
+- Dacă doriți să veniți la noi și județul de care aparțineți nu are bilete la Hotel Codru Moma sau biletele alocate au fost epuizate, vă rugăm să ne contactați și căutăm variante de soluționare.
+- Pentru biletele de tratament GRATUITE consultați condițiile de acordare afișate pe site-urile Caselor Județene de Pensii.
+
+### Sejur cu tratament decontat de Casa de Sănătate
+
+Persoanele care optează pentru sejur cu tratament decontat prin Casa de Sănătate, în baza biletului de trimitere, vor avea în vedere următoarele:
+
+1. În baza biletului de trimitere asigurăm consultație medicală inițială, consultație de control și tratament cu 4 proceduri/persoană/zi timp de 10 zile. Tratamentul se face de luni până vineri (în intervalul orar 8–16).
+2. Asigurarea procedurilor este condiționată de prezentarea biletului de trimitere în ORIGINAL, împreună cu cardul de sănătate.
+3. Dacă sunteți angajat, se prezintă în ORIGINAL o adeverință de la locul de muncă.
+4. Tarifele pentru cazare și masă (3 mese/zi) sunt în secțiunea de oferte a site-ului.
+5. Este de preferat ca sejurul să înceapă duminică sau cel târziu luni până la ora 11:00, pentru a beneficia de tratament și în ziua de luni.
+6. Cazarea în regim single se poate asigura în limita disponibilității și implică un cost suplimentar.
+
+Important:
+- Întreaga durată a tratamentului TREBUIE să fie în aceeași lună și recomandăm ca tratamentul să înceapă în ziua de luni.
+- Tratamentul fiind decontat prin Casa de Sănătate, fondurile sunt limitate, drept urmare recomandăm ca rezervările să fie făcute din timp.
+- În baza biletului de trimitere de la medicul de familie puteți beneficia de 2 sejururi cu tratament inclus, cu condiția ca biletele să fie emise la un interval minim de 6 luni. În caz contrar nu putem deconta tratamentul.
+- Această regulă se aplică și dacă ați făcut tratament decontat de CAS în altă bază de tratament sau clinică.
+
+
+## Anunț
+
+Baza de tratament se deschide din 9 februarie 2026. Proceduri și terapii în regim ambulatoriu. Serviciile de cazare și restaurant se redeschid în curând. În baza biletului de trimitere și a cardului de sănătate asigurăm consultație medicală și 4 proceduri pe zi, timp de 10 zile. La cerere, în afara celor 4 proceduri, se pot asigura contra cost alte proceduri și terapii.
+
+## Articole
+
+### Angajăm cameristă la Hotel Codru Moma***
+
+https://hotelcodrumoma.ro/articole-si-noutati/angajam-camerista/ (2026-10-28)
+
+Hotel Codru Moma din Moneasa caută o cameristă care să se alăture echipei noastre.
+
+Căutăm o persoană serioasă, atentă la detalii și cu plăcere pentru un mediu de lucru curat și primitor. Experiența în domeniu este un avantaj, dar nu o condiție obligatorie.
+
+Descrierea completă a postului, cu responsabilitățile și cerințele, o găsești în documentul atașat.
+
+Dacă te regăsești în acest rol, te așteptăm la interviu. Pentru detalii ne poți contacta la recepția hotelului sau telefonic, la [0752 776 353](tel:+40752776353).
+
+### Sala de kinetoterapie și antrenament
+
+https://hotelcodrumoma.ro/articole-si-noutati/sala-de-kinetoterapie/ (2026-03-25)
+
+În acest articol vă prezentăm sala noastră de kinetoterapie și antrenament. Aici beneficiați de o gamă variată de aparate și echipamente care ajută în procesul de recuperare, dar și pentru cei care vor să își îmbunătățească postura sau condiția fizică ori își doresc să facă mișcare.
+
+Kinetoterapeutul nostru, Bogdan, vă stă la dispoziție cu:
+
+- programe de recuperare în patologii diverse
+- programe pentru îmbunătățirea mobilității, coordonării și a echilibrului
+- exerciții de fitness pentru tonifiere musculară
+
+În ceea ce privește recuperarea medicală, avem pregătite programe pentru o gamă variată de afecțiuni. Mai jos prezentăm cele mai frecvente patologii tratate în sala noastră de kinetoterapie.
+
+## Recuperare postoperatorie
+
+După intervenții de protezare, artrotomii și artroscopii, reconstrucții de ligamente și tratamente chirurgicale pentru fracturi. Cele mai frecvente sunt:
+
+- protezele de șold și genunchi
+- intervențiile asupra ligamentelor încrucișate
+- intervențiile asupra meniscului
+
+Dispunem de un dispozitiv medical robotizat, utilizat în reabilitarea post-chirurgicală, care contribuie la creșterea blândă și eficientă a amplitudinii de mișcare a articulațiilor (șold, genunchi, gleznă).
+
+## Recuperare în afecțiuni degenerative (artroze)
+
+Printre cele mai frecvente: spondiloză cervicală, boli degenerative ale discurilor vertebrale, coxartroză, gonartroză, artroza mâinilor și gleznelor.
+
+Programele de kinetoterapie au rolul de a îmbunătăți funcționarea articulațiilor și de a reduce și elimina durerea. Echipamente utilizate:
+
+- bastoane și mingi pentru mobilitate
+- corzi elastice pentru tonifiere și activare musculară
+- mingea Bobath
+- minibicicletă pentru mobilizarea articulațiilor mâinii
+- spalier
+
+## Recuperarea motricității fine
+
+- placa canadiană pentru îmbunătățirea activităților cotidiene
+- jocuri pentru ergoterapie
+- mingi și elastice pentru recuperarea mâinii
+
+## Recuperare în afecțiuni neurologice
+
+În special în cazuri de pareze rezultate în urma unui AVC. Pe lângă echipamentele menționate, folosim:
+
+- scripetele pentru mobilizarea autopasivă a brațelor
+- roata pentru mobilizarea și creșterea amplitudinii de mișcare a umărului
+- echipamente pentru creșterea funcției cardiovasculare
+- echipamente pentru recuperarea mersului
+
+În această categorie se încadrează și boala Parkinson, parapareza, tetrapareza și ataxia cerebeloasă.
+
+## Tulburări de statică vertebrală
+
+- ameliorarea simptomelor afecțiunilor coloanei vertebrale
+- îmbunătățirea posturii
+- creșterea mobilității coloanei prin exerciții specifice
+
+## Recuperare în boli autoimune
+
+Artrită reumatoidă, sclerodermie, spondilită anchilozantă, miastenia gravis.
+
+## Recuperare în boli cronice pulmonare și/sau cardiace
+
+Pe lângă echipamentele pentru îmbunătățirea funcției cardiovasculare, oferim și programe de gimnastică respiratorie.
+
+## Programe pentru slăbit și fitness
+
+Sala noastră este un spațiu adecvat și pentru persoanele care doresc să slăbească. Punem la dispoziție:
+
+- bandă de alergat
+- biciclete ergonomice
+- stepper fix și dinamic
+- bicicletă eliptică
+
+De asemenea, aveți posibilitatea să vă monitorizați indicii de masă corporală cu ajutorul unui cântar inteligent, care permite urmărirea progresului și setarea obiectivelor. Sala este dotată și cu aparat multifuncțional de fitness cu helcometru, gantere și discuri de greutate.
+
+Bogdan este calificat ca instructor de fitness și poate crea programe personalizate, adaptate nevoilor fiecărui client.
+
+Vă așteptăm pentru a vă bucura de rezultatele terapiei prin mișcare!
+
+### Am pregătit pentru dumneavoastră un pachet cu servicii EXCLUSIV pentru luna martie
+
+https://hotelcodrumoma.ro/articole-si-noutati/pachet-luna-martie/ (2026-03-01)
+
+Bun găsit,
+
+Pentru că începând cu 1 martie ne reluăm activitatea, am pregătit pentru dumneavoastră un pachet cu servicii EXCLUSIV pentru luna martie.
+
+**202 lei/pers/zi pentru sejur de minimum 5 nopți și tratament inclus.**
+
+- Tratamentul se asigură în baza prezentării unui bilet de trimitere valid și a cardului de sănătate.
+- Beneficiați de 4 proceduri/zi (de luni până vineri).
+- Acces la piscina interioară: 20 lei/pers/zi sau puteți opta pentru varianta de abonament.
+- Oferta este cu cazare într-un loc în cameră dublă. Pentru cazare în regim single, tariful este 252 lei/zi.
+- Taxa de stațiune: 1 leu/pers/zi.
+
+Modalități de plată: numerar, card, card de vacanță.
+
+Rezervări și informații: [0787.820.210](tel:+40787820210), [0257.313.134](tel:+40257313134), [rezervari@hotelcodrumoma.ro](mailto:rezervari@hotelcodrumoma.ro) sau pe pagina noastră de Facebook.
+
+### Din 1 martie redeschidem piscina interioară
+
+https://hotelcodrumoma.ro/articole-si-noutati/redeschidem-piscina-interioara/ (2026-03-01)
+
+## Program de funcționare
+
+- 8:30–11:30: ședințe de hidrokinetoterapie
+- 13:00–21:00: acces pentru înot și relaxare
+
+În funcție de anumite situații sau condiții, ne rezervăm dreptul să modificăm programul de funcționare.
+
+Bazinul are 50 mp, regim de adâncime 1,50–1,70 m, iar temperatura apei este de 31–32 de grade Celsius.
+
+## Tarife
+
+- 20 lei/pers/zi pentru persoane cazate în Hotel Codru Moma Moneasa
+- 25 lei/pers/zi pentru persoane care nu sunt cazate în hotelul nostru
+- 15 lei/pers/zi pentru grupuri de peste 10 persoane
+- la recepția hotelului sunt disponibile și variante de abonament
+
+## Precizări
+
+- Copiii cu vârste până la 13 ani au acces doar însoțiți de un adult.
+- Costumul de baie/slipul, șlapii și prosopul sunt OBLIGATORII.
+- NU este permis în incinta piscinei consumul de alimente, băuturi alcoolice sau băuturi în recipiente de sticlă.
+
+### Bine ați venit pe blogul nostru!
+
+https://hotelcodrumoma.ro/articole-si-noutati/bine-ati-venit/ (2026-02-27)
+
+Ne bucurăm să vă avem aici. Acest spațiu este dedicat tuturor celor care își doresc să fie la curent cu noutățile hotelului nostru și să descopere informații utile pentru un stil de viață echilibrat.
+
+Aici vom publica articole despre sănătate, relaxare și bunăstare, dar și despre evenimentele, programele și serviciile pe care le pregătim pentru dumneavoastră. Vom împărtăși recomandări, sfaturi practice și informații care să vă ajute să vă bucurați din plin de experiența oferită de hotelul nostru.
+
+Vă invităm să reveniți periodic pentru a descoperi cele mai noi articole și surprizele pe care le pregătim cu drag.
+
+Cu apreciere,
+Echipa Hotelului
+
+
+## Pagini
+
+- [Despre hotel](https://hotelcodrumoma.ro/despre-hotel/): Hotel de 3 stele în Moneasa: 100 de camere duble, 2 apartamente, restaurant cu 130 de locuri, piscină interioară încălzită și bază de tratament cu aparatură BTL.
+- [Servicii](https://hotelcodrumoma.ro/servicii/): Hotel Codru Moma, Moneasa: cazare, mese echilibrate, piscină interioară cu apă mezotermală, proceduri terapeutice, consultații medicale și activități în natură.
+- [Baza de tratament](https://hotelcodrumoma.ro/proceduri-terapeutice/): Bază de tratament cu aparatură BTL în Moneasa: TECAR, laser HILT, electroterapie, kinetoterapie, hidromasaj, parafină, masaj. Se pot deconta prin Casa de Sănătate.
+- [Camere și apartamente](https://hotelcodrumoma.ro/camere/): Camere duble și twin de 15,5 mp cu balcon și apartamente de 31 mp cu terasă de 25 mp, la Hotel Codru Moma*** din Moneasa. SMART TV, răcitor, internet gratuit.
+- [Oferte și pachete](https://hotelcodrumoma.ro/oferte-si-pachete/): Oferte Hotel Codru Moma: sejur cu tratament inclus, sejur de relaxare, bilete de la Casa de Pensii și graficul seriilor. Acceptăm tichete de vacanță.
+- [Informații utile](https://hotelcodrumoma.ro/informatii-utile/): Cum obțineți bilet de tratament de la Casa de Pensii și cum funcționează sejurul cu tratament decontat de Casa de Sănătate la Hotel Codru Moma din Moneasa.
+- [Articole și noutăți](https://hotelcodrumoma.ro/articole-si-noutati/): Noutăți de la Hotel Codru Moma din Moneasa: anunțuri, oferte, programul piscinei și articole despre sănătate, recuperare și stare de bine.
+- [Galerie foto](https://hotelcodrumoma.ro/galerie/): Fotografii cu Hotel Codru Moma și stațiunea Moneasa: camere, restaurant, piscina interioară, baza de tratament și împrejurimile.
+- [Contact](https://hotelcodrumoma.ro/contact/): Contactați Hotel Codru Moma: Strada Principală 118, Moneasa, jud. Arad. Telefon 0257.313.134, 0787.820.210, e-mail și formular de pre-rezervare online.
+
+## Contact
+
+- Telefon: 0257.313.134 (+40257313134)
+- Telefon: 0257.313.170 (+40257313170)
+- Telefon: 0787.820.210 (+40787820210)
+- E-mail: rezervari@hotelcodrumoma.ro
+- Facebook: https://www.facebook.com/Hotel.Codru.Moma.Moneasa
+- Hartă: https://www.google.com/maps/search/?api=1&query=Hotel+Codru+Moma+Moneasa
+
+---
+
+# Hotel Codru Moma*** (English)
+
+> Hotel Codru Moma***, Moneasa, Arad County: 204 beds, spa treatment centre, indoor pool and restaurant. Health insurance treatment and pension house tickets.
+
+## About the hotel
+
+- Rating: 3 stars
+- Address: Strada Principală 118, Moneasa, Arad County, Romania
+- Capacity: 204 beds, 100 double rooms, 2 apartments
+- Restaurant: 130 seats
+- Payment: Cash, card, holiday vouchers and holiday cards
+- Operator: T.B.R.C.M. S.A. – Sucursala Moneasa
+
+## Rooms
+
+- [Double room](https://hotelcodrumoma.ro/en/rooms/double-room/): At 15.5 sqm, the double rooms suit one or two guests. They come with a SMART TV, telephone, mini-fridge and balcony, offering a comfortable space to rest and relax.
+- [Twin room](https://hotelcodrumoma.ro/en/rooms/twin-room/): Also 15.5 sqm, the twin rooms are ideal for two guests who prefer separate beds. Amenities include a SMART TV, telephone, mini-fridge and balcony, for a pleasant and quiet stay.
+- [Apartment](https://hotelcodrumoma.ro/en/rooms/apartment/): At 31 sqm, the apartments are divided into a living room and a bedroom, suiting 1–4 guests. They have a SMART TV, telephone, mini-fridge and a generous 25 sqm terrace, for extra space and comfort.
+
+## Services
+
+- **Lodging in rooms and apartments**: Hotel Codru Moma*** has 204 beds, rated 3 stars, across 100 double rooms and 2 spacious apartments. The rooms are designed for comfort, practicality and quiet, and suit both short breaks and longer stays.
+- **Food and balanced meals**: Complete meals suited to your kind of stay, with local dishes and Romanian cuisine, including breakfast, lunch and dinner options. The hotel restaurant seats 130 and offers a pleasant atmosphere and varied dishes, adapted to guests following treatment programmes or looking for a balanced diet.
+- **Indoor pool with mesothermal water**: Access to an indoor pool with heated water (31–33°) for relaxation and hydrokinetic therapy (HKT) in a pleasant setting. A modern 50 sqm pool, 1.5–1.7 m deep. The pool area has separate changing rooms for women and men, and showers.
+- **Treatments, therapeutic procedures and recovery**: Our treatment centre offers modern therapies such as TECAR, magnetotherapy, high-intensity laser, electrotherapy and kinesiotherapy, alongside classic spa procedures and therapeutic massage. All therapies are carried out under specialist supervision, according to each patient's needs.
+- **Medical consultations for treatment**: Every treatment plan is based on an initial consultation with our balneology doctor.
+- **Recreational activities**: Walks and easy hikes in the green surroundings of Moneasa, clean air, quiet mountain scenery, small artistic and folk moments, plus outdoor games to socialise and lift the mood.
+
+## Therapeutic procedures
+
+- **TECAR therapy**: A modern therapy using radiofrequency currents to stimulate tissue regeneration, reduce pain and speed up recovery.
+- **Magnetodiaflux (MDF)**: A procedure based on pulsed magnetic fields, recommended for reducing inflammation, relieving pain and stimulating circulation.
+- **High-intensity laser – HILT therapy**: An advanced therapy working in depth, with anti-inflammatory, analgesic and biostimulating effects, ideal for muscle and joint conditions.
+- **Electrotherapy**: Includes diadynamic, Trabert, TENS and interferential currents, used to ease pain, relax muscles and stimulate peripheral nerves.
+- **Electrostimulation (Electrospastic)**: A procedure used for muscle toning and functional recovery, especially in neurological or post-traumatic conditions.
+- **Shortwave and ultrasound**: A therapy with a deep thermal effect, helping to reduce muscle contractures and improve joint mobility.
+- **Paraffin**: Applied locally, paraffin has a relaxing, anti-inflammatory effect and is especially recommended for rheumatic conditions of the hands and feet.
+- **Four-cell galvanic baths**: A procedure used in circulatory and neurological conditions, with a stimulating and relaxing effect.
+- **Hydromassage and individual mesothermal water baths**: Helps relax muscles, reduce stress and improve circulation.
+- **Therapeutic massage**: Recommended for reducing muscle pain, relaxing tissue and improving mobility.
+- **Relaxation / anti-cellulite massage**: Helps release tension, promotes general relaxation and improves the look of the skin.
+- **Kinesiotherapy**: Personalised exercise programmes for recovery, maintaining mobility and correcting posture.
+- **Hydrokinetic therapy**: Exercises in water, ideal for gentle and effective recovery with little impact on the joints.
+- **Phototherapy – infrared (IR) therapy**: A therapy with a deep warming effect, recommended for relaxation and pain relief.
+- **Lymphatic drainage – pressotherapy**: An effective procedure for stimulating lymphatic circulation, reducing oedema and detoxifying the body.
+
+## Conditions the treatment centre is recommended for
+
+- inflammatory rheumatic conditions (rheumatoid polyarthritis, ankylosing spondylitis, reactive arthritis, collagen diseases)
+- degenerative rheumatic conditions (gonarthrosis, coxarthrosis, spondylodiscarthrosis)
+- peripheral and central neurological conditions (ischaemic or haemorrhagic stroke, Parkinson's disease)
+- post-traumatic conditions
+- conditions caused by working under stress
+- asthenic neuroses and marked fatigue
+
+## Current offers
+
+- **Stay with treatment included** (1 November – 20 December 2026): RON 215–225 per person per day. Look after your body before winter arrives. In our modernised treatment centre, with new BTL medical equipment and a team of professionals, we offer complete recovery packages.
+- **Stay without treatment** (An autumn break to relax): from RON 344 per room per day. If you simply want to escape the bustle of the city, breathe clean air and enjoy some comfort, we look forward to welcoming you for a relaxing holiday.
+
+## Frequently asked questions
+
+- **Where is Hotel Codru Moma?** Hotel Codru Moma*** is at Strada Principală 118, in the Moneasa resort, Arad County, Romania.
+- **What types of rooms does the hotel have?** The hotel has 204 beds in 100 double rooms (double or twin, 15.5 sqm, with balcony) and 2 apartments of 31 sqm, with living room, bedroom and 25 sqm terrace.
+- **Can my treatment be covered by the Health Insurance House?** Yes. With an original referral and a health insurance card we provide a consultation and 4 procedures a day for 10 days, Monday to Friday, 8:00–16:00, within available funds. The whole treatment must take place in the same calendar month.
+- **What does a Pension House ticket include?** The ticket includes 16 nights' lodging, 12 days of treatment with a consultation and 3 procedures a day, plus 16 days of full board with set menus. Lodging is one place in a double room.
+- **Which conditions is the treatment centre recommended for?** Inflammatory and degenerative rheumatic conditions, peripheral and central neurological conditions, post-traumatic conditions, conditions caused by working under stress, asthenic neuroses and marked fatigue.
+- **Does the hotel have a pool?** Yes, a heated 50 sqm indoor pool, 1.5–1.7 m deep, with separate changing rooms. Access is charged; reception can tell you the current rates and hours.
+- **How can I pay?** We accept cash, card, and holiday vouchers and cards.
+- **Are parking and internet free?** Yes, parking is free, and internet is free throughout the hotel.
+- **Does the website form confirm my booking?** No. The form is a pre-booking request. A booking is only firm once the hotel confirms it. If you hear nothing within 48 hours, please call us.
+
+## Guides
+
+### Stay with a ticket issued by the County Pension Houses
+
+To obtain a treatment ticket from the County Pension Houses (a 16-day stay), please note the following:
+
+1. Submit the application to your County Pension House, on paper or by e-mail (details on online submission are on the Pension House website), together with a copy of your ID card and of your pension slip.
+2. On the application, enter Moneasa – Hotel Codru Moma and the series you would like. The series schedule is published on our website, our Facebook page and at the Pension Houses. Each series has fixed arrival and departure days.
+3. To receive the ticket you must present a copy of the GP referral (it must be within its validity of 60 days from issue) and 50% of your pension, if a contribution applies. Keep a copy of your ID card and latest pension slip to hand.
+4. Present the ORIGINAL treatment ticket at reception on the date stated on it, with the ORIGINAL GP referral, your ID card and pension slip.
+5. The ticket includes 16 nights' lodging, 12 days of treatment with a consultation by our balneology doctor and 3 procedures a day (Monday to Friday, 8:00–16:00), and 16 days of full board (breakfast, lunch, dinner) with set menus.
+6. The 16-day stay starts on the date stated on the ticket. Arriving late or leaving early means losing those days.
+7. Lodging is in a double room; the ticket holder is given one place in a double room. If you come alone, you will share the room with another guest.
+8. You are entitled to one treatment ticket a year.
+9. Tickets are awarded on a points system set by the County Pension Houses.
+10. People who worked in the Ministry of Internal Affairs system are not eligible for tickets issued by the County Pension Houses.
+
+Note:
+- If your county has no tickets for Hotel Codru Moma, or they have run out, please contact us and we will look for a solution.
+- For FREE treatment tickets, see the conditions on the County Pension House websites.
+
+### Stay with treatment covered by the Health Insurance House
+
+If you choose a stay with treatment covered by the Health Insurance House, based on a referral, please note the following:
+
+1. With a referral we provide an initial consultation, a follow-up consultation and treatment with 4 procedures per person per day for 10 days, Monday to Friday (8:00–16:00).
+2. Procedures require the ORIGINAL referral and your health insurance card.
+3. If you are employed, bring an ORIGINAL certificate from your employer.
+4. Rates for lodging and meals (3 meals a day) are in the offers section of the website.
+5. Ideally the stay should start on Sunday, or on Monday by 11:00 at the latest, so that treatment can also take place on Monday.
+6. Single occupancy is subject to availability and carries an extra cost.
+
+Important:
+- The whole treatment MUST take place within the same calendar month, and we recommend starting on a Monday.
+- As treatment is covered by the Health Insurance House, funds are limited, so we recommend booking early.
+- With a GP referral you can have 2 stays with treatment included, provided the referrals are issued at least 6 months apart. Otherwise we cannot claim the treatment.
+- This rule also applies if you had treatment covered by CAS at another treatment centre or clinic.
+
+
+## Announcement
+
+The treatment centre opens on 9 February 2026. Outpatient procedures and therapies. Lodging and restaurant services will reopen soon. With a referral and a health insurance card we provide a medical consultation and 4 procedures a day, for 10 days. On request, further procedures and therapies are available for a fee.
+
+## Articles
+
+### We are hiring a chambermaid at Hotel Codru Moma***
+
+https://hotelcodrumoma.ro/en/news/hiring-chambermaid/ (2026-10-28)
+
+Hotel Codru Moma in Moneasa is looking for a chambermaid to join our team.
+
+We are looking for a reliable person who pays attention to detail and enjoys a clean, welcoming workplace. Experience is an advantage, but not a requirement.
+
+The full job description, with responsibilities and requirements, is in the attached document.
+
+If this role suits you, we look forward to meeting you at an interview. For details, contact the hotel reception or call [0752 776 353](tel:+40752776353).
+
+### Our kinesiotherapy and training room
+
+https://hotelcodrumoma.ro/en/news/kinesiotherapy-room/ (2026-03-25)
+
+In this article we introduce our kinesiotherapy and training room. It has a wide range of machines and equipment to help with recovery, and suits anyone who wants to improve their posture or fitness, or simply keep moving.
+
+Our kinesiotherapist, Bogdan, offers:
+
+- recovery programmes for a range of conditions
+- programmes to improve mobility, coordination and balance
+- fitness exercises for muscle toning
+
+For medical recovery, we have programmes for a wide range of conditions. These are the ones most often treated in our room.
+
+## Post-operative recovery
+
+After joint replacement, arthrotomy and arthroscopy, ligament reconstruction and surgical treatment of fractures. The most common are:
+
+- hip and knee replacements
+- cruciate ligament surgery
+- meniscus surgery
+
+We have a robotic medical device used in post-surgical rehabilitation, which gently and effectively increases the range of motion of the joints (hip, knee, ankle).
+
+## Recovery in degenerative conditions (arthrosis)
+
+Among the most common: cervical spondylosis, degenerative disc disease, coxarthrosis, gonarthrosis, and arthrosis of the hands and ankles.
+
+Kinesiotherapy programmes aim to improve joint function and to reduce and eliminate pain. Equipment used:
+
+- sticks and balls for mobility
+- elastic bands for toning and muscle activation
+- Bobath ball
+- mini-bike for mobilising the hand joints
+- wall bars
+
+## Fine motor recovery
+
+- Canadian board for improving everyday activities
+- occupational therapy games
+- balls and bands for hand recovery
+
+## Recovery in neurological conditions
+
+Especially paresis following a stroke. In addition to the equipment above, we use:
+
+- pulleys for self-assisted arm mobilisation
+- a wheel for mobilising the shoulder and increasing its range of motion
+- equipment to improve cardiovascular function
+- gait recovery equipment
+
+This category also includes Parkinson's disease, paraparesis, tetraparesis and cerebellar ataxia.
+
+## Spinal posture disorders
+
+- relieving the symptoms of spinal conditions
+- improving posture
+- increasing spinal mobility through specific exercises
+
+## Recovery in autoimmune diseases
+
+Rheumatoid arthritis, scleroderma, ankylosing spondylitis, myasthenia gravis.
+
+## Recovery in chronic lung and/or heart disease
+
+In addition to equipment for improving cardiovascular function, we offer breathing exercise programmes.
+
+## Weight-loss and fitness programmes
+
+Our room also suits people who want to lose weight. We provide:
+
+- treadmill
+- ergonomic bikes
+- fixed and dynamic stepper
+- elliptical trainer
+
+You can also track your body mass indices with a smart scale, which lets you follow your progress and set goals. The room also has a multifunctional fitness machine with cable pulley, dumbbells and weight plates.
+
+Bogdan is a qualified fitness instructor and can create personalised programmes for each client's needs.
+
+We look forward to helping you enjoy the results of movement therapy!
+
+### A package of services we prepared EXCLUSIVELY for March
+
+https://hotelcodrumoma.ro/en/news/march-package/ (2026-03-01)
+
+Hello,
+
+As we resume our activity from 1 March, we have prepared a package of services EXCLUSIVELY for March.
+
+**RON 202 per person per day for a stay of at least 5 nights, treatment included.**
+
+- Treatment is provided on presentation of a valid referral and a health insurance card.
+- You receive 4 procedures a day (Monday to Friday).
+- Indoor pool access: RON 20 per person per day, or you can choose a pass.
+- The offer includes a place in a double room. For single occupancy, the rate is RON 252 per day.
+- Resort tax: RON 1 per person per day.
+
+Payment: cash, card, holiday card.
+
+Bookings and information: [0787.820.210](tel:+40787820210), [0257.313.134](tel:+40257313134), [rezervari@hotelcodrumoma.ro](mailto:rezervari@hotelcodrumoma.ro) or on our Facebook page.
+
+### Our indoor pool reopens on 1 March
+
+https://hotelcodrumoma.ro/en/news/indoor-pool-reopens/ (2026-03-01)
+
+## Opening hours
+
+- 8:30–11:30: hydrokinetic therapy sessions
+- 13:00–21:00: swimming and relaxation
+
+We reserve the right to change the hours depending on circumstances.
+
+The pool is 50 sqm, 1.50–1.70 m deep, with water at 31–32 degrees Celsius.
+
+## Rates
+
+- RON 20 per person per day for guests staying at Hotel Codru Moma Moneasa
+- RON 25 per person per day for non-residents
+- RON 15 per person per day for groups of more than 10
+- passes are also available at reception
+
+## Please note
+
+- Children up to 13 may only enter with an adult.
+- A swimsuit or trunks, flip-flops and a towel are MANDATORY.
+- Food, alcoholic drinks and drinks in glass containers are NOT allowed in the pool area.
+
+### Welcome to our blog!
+
+https://hotelcodrumoma.ro/en/news/welcome-to-our-blog/ (2026-02-27)
+
+We are glad to have you here. This space is for everyone who wants to keep up with news from our hotel and find useful information for a balanced lifestyle.
+
+Here we will publish articles about health, relaxation and wellbeing, as well as the events, programmes and services we prepare for you. We will share recommendations, practical tips and information to help you make the most of your stay.
+
+Please come back regularly to discover our latest articles and the surprises we are preparing.
+
+With appreciation,
+The Hotel Team
+
+
+## Pages
+
+- [About the hotel](https://hotelcodrumoma.ro/en/about/): A 3-star hotel in Moneasa: 100 double rooms, 2 apartments, a 130-seat restaurant, a heated indoor pool and a treatment centre with BTL equipment.
+- [Services](https://hotelcodrumoma.ro/en/services/): Services at Hotel Codru Moma in Moneasa: lodging, balanced meals, an indoor mesothermal pool, therapeutic procedures, medical consultations and outdoor activities.
+- [Treatment centre](https://hotelcodrumoma.ro/en/treatments/): Treatment centre with BTL equipment in Moneasa: TECAR, HILT laser, electrotherapy, kinesiotherapy, hydromassage, paraffin, massage. Health insurance accepted.
+- [Rooms and apartments](https://hotelcodrumoma.ro/en/rooms/): 15.5 sqm double and twin rooms with balcony and 31 sqm apartments with a 25 sqm terrace at Hotel Codru Moma*** in Moneasa. SMART TV, mini-fridge, free internet.
+- [Offers and packages](https://hotelcodrumoma.ro/en/offers/): Offers at Hotel Codru Moma: stays with treatment included, relaxation breaks, pension house tickets and the series schedule. Holiday vouchers accepted.
+- [Useful information](https://hotelcodrumoma.ro/en/useful-information/): How to get a treatment ticket from the Pension House, and how a stay with treatment covered by the Health Insurance House works at Hotel Codru Moma in Moneasa.
+- [Articles and news](https://hotelcodrumoma.ro/en/news/): News from Hotel Codru Moma in Moneasa: announcements, offers, pool hours and articles about health, recovery and wellbeing.
+- [Photo gallery](https://hotelcodrumoma.ro/en/gallery/): Photos of Hotel Codru Moma and the Moneasa resort: rooms, restaurant, indoor pool, treatment centre and surroundings.
+- [Contact](https://hotelcodrumoma.ro/en/contact/): Contact Hotel Codru Moma: Strada Principală 118, Moneasa, Arad County. Phone +40 257 313 134, +40 787 820 210, rezervari@hotelcodrumoma.ro. Online pre-booking form.
+
+## Contact
+
+- Phone: 0257.313.134 (+40257313134)
+- Phone: 0257.313.170 (+40257313170)
+- Phone: 0787.820.210 (+40787820210)
+- E-mail: rezervari@hotelcodrumoma.ro
+- Facebook: https://www.facebook.com/Hotel.Codru.Moma.Moneasa
+- Map: https://www.google.com/maps/search/?api=1&query=Hotel+Codru+Moma+Moneasa

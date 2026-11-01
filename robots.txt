@@ -1,0 +1,8 @@
+# Hotel Codru Moma (https://hotelcodrumoma.ro)
+# Rezumatul hotelului pentru asistenți AI: /llms.txt și /llms-full.txt
+
+User-agent: *
+Allow: /
+Disallow: /mail.php
+
+Sitemap: https://hotelcodrumoma.ro/sitemap.xml

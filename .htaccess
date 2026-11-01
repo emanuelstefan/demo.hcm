@@ -1,0 +1,65 @@
+# Configurarea serverului Apache pentru site-ul static Hotel Codru Moma.
+# Fișierul e copiat în dist/ la build și urcat pe server odată cu site-ul.
+# Detalii: docs/deploy-ftp.md și docs/seo.md.
+
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+
+AddType application/manifest+json .webmanifest
+AddDefaultCharset utf-8
+AddCharset utf-8 .txt .xml .css .js .json .webmanifest
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # O singură adresă canonică: https://hotelcodrumoma.ro (fără www)
+  RewriteCond %{HTTPS} off [OR]
+  RewriteCond %{HTTP_HOST} ^www\. [NC]
+  RewriteRule ^ https://hotelcodrumoma.ro%{REQUEST_URI} [R=301,L,NE]
+
+  # Adresele vechiului site WordPress → paginile noi. Paginile principale își păstrează adresa.
+  RewriteRule ^2026/10/28/angajam-camerista-la-hotel-codru-moma/?$ /articole-si-noutati/angajam-camerista/ [R=301,L]
+  RewriteRule ^2026/03/25/sala-de-kinetoterapie-si-antrenament-hotel-codru-moma/?$ /articole-si-noutati/sala-de-kinetoterapie/ [R=301,L]
+  RewriteRule ^2026/03/01/am-pregatit-pentru-dumneavoastra-un-pachet-cu-servicii-exclusiv-pentru-luna-martie/?$ /articole-si-noutati/pachet-luna-martie/ [R=301,L]
+  RewriteRule ^2026/03/01/din-1-martie-redeschidem-piscina-interioara/?$ /articole-si-noutati/redeschidem-piscina-interioara/ [R=301,L]
+  RewriteRule ^2026/02/27/bun-venit/?$ /articole-si-noutati/bine-ati-venit/ [R=301,L]
+  RewriteRule ^articole-si-noutati/page/[0-9]+/?$ /articole-si-noutati/ [R=301,L]
+  RewriteRule ^home/?$ / [R=301,L]
+  RewriteRule ^404-not-found/?$ / [R=301,L]
+  RewriteRule ^wp-sitemap.*\.xml$ /sitemap.xml [R=301,L]
+  RewriteRule ^sitemap_index\.xml$ /sitemap.xml [R=301,L]
+  RewriteRule ^feed/?$ /rss.xml [R=301,L]
+  RewriteRule ^wp-content/uploads/2026/10/Oferta-sejur-cu-tratament-2026-toamna\.pdf$ /documente/oferta-sejur-cu-tratament-toamna-2026.pdf [R=301,L]
+  RewriteRule ^wp-content/uploads/2026/10/Anunt-angajare-camerista.*\.pdf$ /documente/anunt-angajare-camerista.pdf [R=301,L]
+
+  # Arhivele WordPress nu mai există (410 = șterse definitiv)
+  RewriteRule ^(category|author|tag|comments)/ - [G,L]
+  RewriteRule ^.+/feed/?$ - [G,L]
+</IfModule>
+
+# Cache în browser
+<IfModule mod_headers.c>
+  # Fișierele din _astro/ au în nume amprenta conținutului; dacă se schimbă, se schimbă și numele
+  <If "%{REQUEST_URI} =~ m#^/_astro/#">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </If>
+  <FilesMatch "\.html$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+  <FilesMatch "\.(png|jpg|ico|webmanifest|mp4|pdf)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+
+  # Securitate
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  # După ce HTTPS funcționează sigur, poate fi activat și HSTS:
+  # Header always set Strict-Transport-Security "max-age=31536000"
+</IfModule>
+
+# Compresie
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/javascript application/json application/xml application/rss+xml application/manifest+json image/svg+xml
+</IfModule>
